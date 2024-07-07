@@ -1,5 +1,7 @@
 # OPEN GL SCENE
+You can just fly around, explore the scene and see some animations
 SCREENSHOTS:
+
 ![image](https://github.com/MaximKuzmin16/OpenGL-scene/assets/134335735/d40ed65f-16a7-4cfd-b7e1-cf90e0819239)
 ![image](https://github.com/MaximKuzmin16/OpenGL-scene/assets/134335735/ec9e7799-4780-40db-b255-97d0b8bd09d3)
 ![image](https://github.com/MaximKuzmin16/OpenGL-scene/assets/134335735/2b3f9fd0-5004-4251-bedd-2ac73ce87ed1)
