@@ -1,0 +1,7 @@
+D:\Универ\заказы\OGL\first\x64\Debug\learnopengl.exe
+D:\Универ\заказы\OGL\second\x64\Debug\learnopengl.exe
+D:\Универ\заказы\OGL\third\x64\Debug\third.exe
+D:\ucheba\third\third\x64\Debug\third.exe
+D:\ucheba\third\k4\x64\Debug\kursovik.exe
+D:\ucheba\k4\x64\Debug\kursovik.exe
+C:\Users\Максим\Desktop\k4\x64\Debug\kursovik.exe

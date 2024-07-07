@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (learnopengl.vcxproj, third.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\Максим\Desktop\k4\Model.h(177,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\Desktop\k4\Model.h(288,2): warning C4091: typedef : пропускается слева от "Object", когда ни одна переменная не объявлена
+C:\Users\Максим\Desktop\k4\Model.h(309,2): warning C4091: typedef : пропускается слева от "Car", когда ни одна переменная не объявлена
+C:\Users\Максим\Desktop\k4\Camera.h(36,32): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\Desktop\k4\Camera.h(37,32): warning C4244: -=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\Desktop\k4\main.cpp(154,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Максим\Desktop\k4\main.cpp(196,32): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\Desktop\k4\main.cpp(197,32): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\Desktop\k4\main.cpp(210,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  learnopengl.vcxproj -> C:\Users\Максим\Desktop\k4\x64\Debug\kursovik.exe
